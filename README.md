@@ -12,6 +12,7 @@ I'm a math student at Georgia Tech, but I'm also interested in CS and <a href="h
   
 ### 💻 Projects
 <ul>
+  <li><a href="https://pinanle.live/" target="_blank">Pinanle</a> - Heardle, but for Piano Pieces.</li>
   <li><a href="https://ranking-chart.web.app/" target="_blank">Ranking Chart</a> - A score tracker for the game Puzzle & Dragons, created using Firebase and Chart.js</li>
   <li><a href="https://github.com/houseoflavor/hof" target="_blank">House o' Flavor</a> - A multiplayer Java AWT game inspired by the game Overcooked</li>
 </ul>
